@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Appcast</title>
+        <item>
+            <title>3.0.27_142</title>
+            <description>desc</description>
+            <pubDate>2022_10_24</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.injewelme.wydi" sparkle:version="3.0.27" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
